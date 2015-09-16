@@ -1,0 +1,5 @@
+c:\users\tuf69818\documents\visual studio 2012\Projects\Howdy\bin\Howdy.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\Howdy\bin\Howdy.pdb
+c:\users\tuf69818\documents\visual studio 2012\Projects\Howdy\obj\Debug\Howdy.csprojResolveAssemblyReference.cache
+c:\users\tuf69818\documents\visual studio 2012\Projects\Howdy\obj\Debug\Howdy.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\Howdy\obj\Debug\Howdy.pdb
